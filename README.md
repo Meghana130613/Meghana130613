@@ -20,7 +20,7 @@
   <img src="https://nirzak-streak-stats.vercel.app/?user=Meghana130613&theme=gruvbox&hide_border=false" />  
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meghana130613&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-</div>
+
 
 
 ### 🔝 Top Contributed Repo
@@ -28,5 +28,5 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Meghana130613&icon=0&color=3)](https://visitcount.itsvg.in)
+</div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
