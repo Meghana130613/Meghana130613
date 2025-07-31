@@ -1,6 +1,6 @@
 # Hi there 👋
 ### I'm Meghana, a Computer Science Engineering (Data Science) student at MIT Kundapura.<br>
-🎓 Studying Data Science with a goal of becoming a data analyst someday<br>🐱 Pet and nature lover — I find calm in the little things  <br>📚 I enjoy reading, especially when I need a break from screens  <br>🎨Currently learning UI/UX design because it fascinates me    <br>🛠️ I like figuring things out quietly — not a fan of the spotlight, but I enjoy sharing what I learn  <br>🚀 Open to opportunities where I can learn, solve real problems, and grow in the process  <br><br>
+🎓 Studying Data Science with a goal of becoming a data analyst someday<br>🐱 Loves pet and nature — I find calm in the little things  <br>📚 I enjoy reading, especially when I need a break from screens  <br>🎨Currently learning UI/UX design because it fascinates me    <br>🛠️ I like figuring things out quietly — not a fan of the spotlight, but I enjoy sharing what I learn  <br>🚀 Open to opportunities where I can learn, solve real problems, and grow in the process  <br><br>
 
 
 # 🌐 Connect with me!
